@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Arpit
+title: Arpit | Graphic Designer
+description: Arpit is a Graphic Design Artist from XYZ with XYZ experience etc.
 tags:
   - blog
   - template
@@ -17,8 +16,8 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
+#  - title: Feed
+#    url: /feed.xml
 email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username
