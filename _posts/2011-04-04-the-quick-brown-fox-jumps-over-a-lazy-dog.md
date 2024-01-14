@@ -5,7 +5,7 @@ title: Corporate Posters and Ads
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1506079212/jekflix-capa_vfhuzh.png
-optimized_image: https://previews.dropbox.com/p/thumb/ACIYf5SPnnPXaekRCRGaY8lUWX5V5Boe_Z4LATg9GGEgfO0SImwAYcfFdVDCrQiPY4arcNz-Er09fA6SNy5PaYg-lI3raHq_2J1Kq8fHgky2w6KhinQilU1kYdGBDSPZkT7xLzQGJPOjGT0BfF0R-G09NM1w7baqUi883xI9REpv7hjejANB9NwTaGdnA82Hbob10gwjpF-Gs03KNpVlQpdBNH9lls_jEQHVhweSuvulvarQqcwYp4SGKBiFnGZll_QcRtQMveCrUkyGqR_q0Bo-FDcLO61BdtYzegyd6vBOJfSZJnnQsdmVRtJoHN4i1PH0OLT8TraLPyapR2RPnl3Q/p.png
+optimized_image: https://previews.dropbox.com/p/thumb/ACJDEcC4CE80M_s52kfUcxAv1B5NC_2DP5AYMt6ajtgHRhySjX2MXzQI7KCeeLDdT7clWRQiMQw0Mu_RJ_nFgxzjDufMC64ReOZkT6GTWQehlhBnPQmY9XvMrtS7FYCuaRcEtontVs-SwSM9AhA_jlqcvjWDbqofnQRaDtI1b-eUXs8TacA8Evvhmuwqs-mZS5HcKb40T4ZTV6QGqzuWMzOZmsrFrVUQW14gx6HyNx9k_Gucx5_3FwhzE4Vr-KK11NSaPvd3J13fRliFX3Q1e_wB78stjxOeoVlMSGB4rCEaCWgwLmUAzgNPskCB7gYY4l3usBdTxYIOlDyh6hXsW2Dk/p.png
 category: Posters
 tags:
   - poster
