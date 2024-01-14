@@ -10,7 +10,7 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://uc40ddd5d6e7447b8930561d0759.previews.dropboxusercontent.com/p/thumb/ACKKwGnUDFL2v8IYB4t3p1VFxKsQObGXUZLq8eJ-ydFO3IzoaWQu0ygOsj3SWUxfMQkv0tl7tNuoC0hdYPvchV-izEBApA2s9hID3qXQiiGY52lQuwYz5Kbpm9G08Zk_2mTP2rqDKUFblypi2cs_ar2lofU0W5wyvutuUpTK2KhQr7XYcy8W91mflY8cWojinVPz3uC9iu24UPXps1gLdI6-iEBkciaGYFvc21kD9n8QGLgsNQfCJ5eLsfZc1hZ2ZdOMBy6bionxI5VM-5tq3KiCtzgg1g6iMjEXkP1b6VIY7Nu48iEgbEbsAs6T5dTMTwcseP2pGgc-KTCSfyyNKAJr9o3eGehKV0UR499115m6W5IO4vDtfUKrRVjd31oXQcrL2322Y2_cgnwTIPclaGlFOd7jT_9WO6OttSlORzw2C1geYZLoGsmMVUkl3bR5-CavyXhXH5ATkrUBx73fpV7xf-3GjZ7F_7l6aWUoaYFhAV39JWgGrwvL628tV9UZCj4/p.jpeg
+  https://cdnb.artstation.com/p/assets/images/images/070/888/467/large/acpew-do-something-dawg-recovered.jpg?1703846360
 optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog

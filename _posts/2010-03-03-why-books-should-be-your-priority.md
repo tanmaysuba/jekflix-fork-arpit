@@ -1,12 +1,12 @@
 ---
 date: 2018-11-22 12:26:40
 layout: post
-title: Why books should be your priority?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: Check out my Magazine Covers
+subtitle: From Fashion to Fitness, I can do anything!
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
-category: life
+image: https://ucc0cddcb3e0a1e603b95e1d7448.previews.dropboxusercontent.com/p/thumb/ACJdRbhctL4zXTJWDg8tFQuM1vJ28HojPOTsO0AVkxni08UIYEXieP7_CpMcJJmi9pINfyXB_FilRzm8yKJRouvbNkbGmUH6FxYp1TuxVcu5fN8LdLUGXaDWKoSChQ2h70THNf01Ty-ZBtnM4d5af2KjudZuTSPXDlb9u1kWY37bBWsrj3RT5O_WyPwCMxB1nvNLFcv1e9QHNDhjKwyY5_Rar79iM7uToKkN0eikhqfEQoSZ2r6QM2YyTn3pN4lcYdnBLCb92Lr53HfczQ8Qj8XdsNatdP5x4l1YtZhOAGOFTmANDAqN5fkMv-gkIWK3d3yQNXHffEDVNFTk0diFBpagqiNiNyHZIFvrF70bkj_mUMl4Y4em9mYEHODiNxmMOS8/p.png
+optimized_image: https://ucc0cddcb3e0a1e603b95e1d7448.previews.dropboxusercontent.com/p/thumb/ACJdRbhctL4zXTJWDg8tFQuM1vJ28HojPOTsO0AVkxni08UIYEXieP7_CpMcJJmi9pINfyXB_FilRzm8yKJRouvbNkbGmUH6FxYp1TuxVcu5fN8LdLUGXaDWKoSChQ2h70THNf01Ty-ZBtnM4d5af2KjudZuTSPXDlb9u1kWY37bBWsrj3RT5O_WyPwCMxB1nvNLFcv1e9QHNDhjKwyY5_Rar79iM7uToKkN0eikhqfEQoSZ2r6QM2YyTn3pN4lcYdnBLCb92Lr53HfczQ8Qj8XdsNatdP5x4l1YtZhOAGOFTmANDAqN5fkMv-gkIWK3d3yQNXHffEDVNFTk0diFBpagqiNiNyHZIFvrF70bkj_mUMl4Y4em9mYEHODiNxmMOS8/p.png
+category: magazines
 tags:
   - books
   - read
