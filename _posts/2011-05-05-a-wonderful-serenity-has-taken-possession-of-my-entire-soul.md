@@ -1,16 +1,16 @@
 ---
 date: 2018-07-20 12:26:40
 layout: post
-title: A wonderful serenity has taken possession of my entire soul
+title: Movie and Film Billboards
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
-category: code
+optimized_image: https://ucf6f239fbe1661487568d68755a.previews.dropboxusercontent.com/p/thumb/ACKA5tgMTln3JJG9QqH0HDpMHvNfeu4cGQ_dpFoTy34PVoYOGqzIk3fGvSFzK_EAHuGS5maBwyZlet6hFlpBbQqoxEzYjuOjAa6dd5SGwfS9sIWGJXsbdqPk3UeUq2Lp8f6Z6rF_sdQu_aeoEwr8--S4Hj7JqiQOrgtF2F2bH_n8fmiFxcBo37gGamPTuH5b-b9MEwUyGeOgU-xnugVwx4ZeQ5Ux5Aub2kr8Da5H-uNWlmkaE5jrT-iXlibdlAVeZBW5It-bYDgKxP_hZNV2H3uIH2Kw601rxz0FCwEvLxZWEb1cZ4yiUS9CFXVhZJrncTgtyUMzHVmIsq0gCJgHzYe4YvioeSwoOLyzxwgt6VATIhG8VPnuRMTGDQfy1DzK1Yc/p.png
+category: Billboards
 tags:
-  - platform
-  - javascript
-  - vscode
+  - film
+  - movie
+  - billboards
 author: mranderson
 ---
 
